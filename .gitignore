@@ -1,0 +1,10 @@
+**/__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+**/env_jinshi/
+**/models/
+
+# Environment variables
+.env
